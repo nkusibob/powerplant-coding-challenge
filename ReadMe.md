@@ -2,7 +2,7 @@
 from this repo :https://github.com/gem-spaas/powerplant-coding-challenge
 * choose powerplant-coding-challenge and powerplantWebSocket as Startup Projects and run it 
 * build the solution and run PowerPlantChallengetest and it should pass ! 
-*start the solution and  it  will launch a swagger page on port 8888 and websocket
+* start the solution and  it  will launch a swagger page on port 8888 and websocket
 * click on try it out 
 * execute to display to result in swagger 
 * a Web socket server will then display the payload and the list of powerplant to match it
@@ -10,8 +10,6 @@ from this repo :https://github.com/gem-spaas/powerplant-coding-challenge
 you can download a video showscasing those steps if needed
 
 the unit tests are based on those 3 payload examples,
-I've added a single couple of test plan on my own
-I've added a single couple of test plan on my own
 for this same list of powerplants 
 ```javascript
 "powerplants": [
@@ -60,7 +58,7 @@ for this same list of powerplants
     ]
 
 ```
-you can use parameter by changing the load and the wind 
+you can keep the same powerplant list and parameter the load and the wind for additional test plan
 ```javascript
 
 
@@ -106,7 +104,7 @@ you can use parameter by changing the load and the wind
   }
 ```
 
-but for the last you can use only 2 powerplants
+but for the last test you can use only 2 powerplants instead of the initial list of 6 powerplants !
 ```javascript
 {
   "load": 500,
