@@ -58,7 +58,8 @@ for this same list of powerplants
     ]
 
 ```
-you can keep the same powerplant list and parameter the load and the wind for additional test plan
+you can keep the same powerplant list and parameter the load and the wind for each request
+in other words you have 4 test plan here!
 ```javascript
 
 
