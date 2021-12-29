@@ -1,12 +1,12 @@
 #power plant code challenge
-from this "(repo)"https://github.com/gem-spaas/powerplant-coding-challenge
+from this repo :https://github.com/gem-spaas/powerplant-coding-challenge
 * choose powerplant-coding-challenge and powerplantWebSocket as Startup Projects and run it 
 * build the solution and run PowerPlantChallengetest and it should pass ! 
 *start the solution and  it  will launch a swagger page on port 8888 and websocket
 * click on try it out 
 * execute to display to result in swagger 
 * a Web socket server will then display the payload and the list of powerplant to match it
-* check on this "(test plan)" :https://dev.azure.com/DesignPatternStudy/powerPlant/_testManagement/runs?_a=resultSummary&runId=22&resultId=100000
+* check on this link :https://dev.azure.com/DesignPatternStudy/powerPlant/_testManagement/runs?_a=resultSummary&runId=22&resultId=100000
 you can download a video showscasing those steps if needed
 
 the unit tests are based on those 3 payload examples,
