@@ -6,8 +6,7 @@ from this repo :https://github.com/gem-spaas/powerplant-coding-challenge
 * click on try it out 
 * execute to display to result in swagger 
 * a Web socket server will then display the payload and the list of powerplant to match it
-* check on this link :https://dev.azure.com/DesignPatternStudy/powerPlant/_testManagement/runs?_a=resultSummary&runId=22&resultId=100000
-you can download a video showscasing those steps if needed
+
 
 the unit tests are based on those 3 payload examples,
 for this same list of powerplants 
